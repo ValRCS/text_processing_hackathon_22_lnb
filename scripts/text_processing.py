@@ -24,6 +24,11 @@
 # what ocr errors are in the text?
 # how do we fix the text's errors?
 
+# to correct the text's errors we need to identify the text's errors
+# this is done by comparing the text to a reference text
+# we use regular expressions to identify the text's errors
+# also we used dictionaries to identify the text's errors
+
 # next we need to normalize the text
 # what is the text's normalization?
 # text normalization means to convert the text to a standard form
@@ -187,4 +192,17 @@
 # nltk has a function called wordnet that performs word sense induction using WordNet
 
 
-# next we need to tokenize the text
+# tools for text analysis
+# we use Python
+# we use NLTK
+# we use spaCy
+# we use TextBlob
+# we use Gensim
+# for visualization of topic modeling results we use pyLDAvis
+# for Latvian language we use tools provided by nlp.ailab.lv
+# for general purpose plotting we use plotly
+# Jupyter Notebook is a popular tool for interactive computing
+# Visual Studio Code provide a great environment for Python development
+# Visual Studio Code provide a great environment for Jupyter Notebook development 
+# alternative is to use web based Jupyter Notebook - https://jupyter.org/try
+# Google Colab is a popular web based Jupyter Notebook - offers GPU and TPU support
