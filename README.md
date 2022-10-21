@@ -4,3 +4,11 @@ Materials for Student Hackaton by Latvian Open Technology Association - https://
 * [LNB](https://lnb.lv)
 * [LATA](https://www.lata.org.lv/post/kult%C5%ABras-datu-hakatons-un-ideju-%C4%A3enerators-skol%C4%93niem-2022)
 
+
+## Binder - your own running instance of this repository
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ValRCS/text_processing_hackathon_22_lnb/HEAD)
+
+## Introductory Python Notebook in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/text_processing_hackathon_22_lnb/blob/main/notebooks/Python%20Introduction.ipynb)
