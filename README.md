@@ -9,6 +9,11 @@ Materials for Student Hackaton by Latvian Open Technology Association - https://
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ValRCS/text_processing_hackathon_22_lnb/HEAD)
 
-## Introductory Python Notebook in Google Colab
+## Google Colab - individual notebooks
+
+### General Introduction to Python
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/text_processing_hackathon_22_lnb/blob/main/notebooks/Python%20Introduction.ipynb)
+
+### Text Processing Basics in Python 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/text_processing_hackathon_22_lnb/blob/main/notebooks/Text_Processing_Basics.ipynb)
